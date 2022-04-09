@@ -1,1 +1,1 @@
-# 22-1-PandasStudy
+# 22-1-DataStudy
